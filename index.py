@@ -12,5 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+def add(var1, var2):
+    return var1+var2
+
+
 if __name__ == "__main__":
     print("Hello")
